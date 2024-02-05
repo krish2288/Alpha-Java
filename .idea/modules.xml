@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Alpha_Java.iml" filepath="$PROJECT_DIR$/Alpha_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condition/Condition.iml" filepath="$PROJECT_DIR$/Condition/Condition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureAndVariable/DataStructureAndVariable.iml" filepath="$PROJECT_DIR$/DataStructureAndVariable/DataStructureAndVariable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Datatype/Datatype.iml" filepath="$PROJECT_DIR$/Datatype/Datatype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionMethod/FunctionMethod.iml" filepath="$PROJECT_DIR$/FunctionMethod/FunctionMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternPart2/PatternPart2.iml" filepath="$PROJECT_DIR$/PatternPart2/PatternPart2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators/operators.iml" filepath="$PROJECT_DIR$/operators/operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern part 1/pattern part 1.iml" filepath="$PROJECT_DIR$/pattern part 1/pattern part 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practise/practise.iml" filepath="$PROJECT_DIR$/practise/practise.iml" />
+    </modules>
+  </component>
+</project>
